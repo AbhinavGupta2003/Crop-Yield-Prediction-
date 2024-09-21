@@ -1,1 +1,3 @@
-# Crop-Yield-Prediction-
+Developed a robust crop yield prediction system leveraging multiple machine learning models including Random Forest, Linear Regression, Decision Trees, Neural Networks, and Stacked Models. The project focuses on analyzing agricultural trends and assessing the impact of climate variables such as temperature, rainfall, and humidity on crop yield. The model delivers accurate yield predictions by processing historical crop data and climate datasets, providing actionable insights for farmers and agricultural stakeholders. Implemented data preprocessing techniques like feature scaling and handling missing values to improve model performance and scalability.
+
+Tech Stack: Python, Pandas, NumPy, Matplotlib
